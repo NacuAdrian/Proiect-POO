@@ -1,0 +1,5 @@
+Ionescu,Andrei,10
+Popescu,Lucian,12
+Atanasoie,Cosmin,23
+Acatrinei,Cristian,20
+,,

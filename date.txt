@@ -1,0 +1,5 @@
+Popescu,Ion,20000
+Ionescu,Marcel,1000
+Andrei,Mihai,2000
+Florescu,Gavril,40000
+Lupasteanu,Alexandru,3000
